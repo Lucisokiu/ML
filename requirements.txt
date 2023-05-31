@@ -1,0 +1,15 @@
+streamlit
+streamlit_cropper
+#opencv-python
+opencv-python-headless
+tensorflow==2.10.0
+scikit-learn
+matplotlib
+editdistance
+vietocr
+PyYAML
+torch 
+torchvision
+-f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+torch-scatter
+pyperclip
